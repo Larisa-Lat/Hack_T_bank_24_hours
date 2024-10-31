@@ -3,6 +3,11 @@
 ________________________________________________________
 Сайт:
 ![image](https://github.com/user-attachments/assets/29716a13-987e-4fb7-89af-199423d025f6)
+![image](https://github.com/user-attachments/assets/d08e6ced-ce40-49be-8357-1bd778f34bda)
+![image](https://github.com/user-attachments/assets/498222f9-fbeb-473f-b0a6-5f1b5d33648e)
+![image](https://github.com/user-attachments/assets/53d3d30b-78df-4b60-9553-6de1f6407977)
+![image](https://github.com/user-attachments/assets/520afd69-77a7-4dcd-8b83-e326c8886c49)
+![image](https://github.com/user-attachments/assets/1edab560-808c-41ed-95e0-0977f5b9ac7a)
 ________________________________________________________
 # Архитектура
 
